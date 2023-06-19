@@ -59,6 +59,11 @@
       "type": "directory",
       "source": "war",
       "prefix": "war/"
+    },
+    {
+      "type": "directory",
+      "source": "hats",
+      "prefix": "hats/"
     }
   ]
 }

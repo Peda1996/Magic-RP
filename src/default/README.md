@@ -4,6 +4,13 @@ This RP is meant for use with the Magic Bukkit plugin:
 
 https://github.com/elBukkit/MagicPlugin/wiki
 
+magic custom_model_data starts at 18000
+
+other custom_model_data starts at 50000
+- hats 50000
+- swords 51000
+- pickaxes 52000
+
 ## RP Credits
 
 - 3D Artists:
